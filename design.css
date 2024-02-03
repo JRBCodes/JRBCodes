@@ -1,0 +1,123 @@
+html {
+	font-family:HCo Gotham SSm,Helvetica;
+	background-color: white;
+}
+.thin {
+	font-weight:100;
+}
+.mainBox {
+	border: hidden ;
+	background-image: url(images/roblox_buy_page.jpg);
+	height: 120px;
+	width: 970px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.box {
+	border: 2px solid #848484;
+	border-radius: 10px 0px;
+	background-color: #eeeeee;
+}
+.title {
+	background-color: white;
+	color:black;
+}
+
+.mid {
+	text-align:center;
+}
+.mainField {
+	background-color: #eeeeee;
+	width: 53%;
+	margin-left: auto;
+	margin-right: auto;
+}
+legend {
+	background-color: #eeeeee;
+	border: 1px groove #848484;
+	border-radius: 5px 10px;
+}
+td {
+	text-align: right;
+	height: 30px;
+}
+input:focus {
+	background-color: black;
+	color: white;
+}
+input:hover {
+	background-color: #a7d7f9;
+	color:black;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+h1 {
+	padding-top: 30px;
+	font-weight: 800;
+	font-size: 32px;
+	color: white;
+}
+.bgImage {
+	background-repeat: no-repeat;
+}
+.smol {
+	font-size: 12px;
+	font-weight: 100;
+}
+.invisBox {
+	width: 54%;
+	margin-left: auto;
+	margin-right: auto;
+	border: hidden;
+}
+.payButton {
+	line-height: 2.5;
+}
+.payButton:hover {
+	background-color:#a7d7f9;
+	color:black;
+	border:1px solid black;
+}
+.payButton:active {
+	background-color: green;
+	color: white;
+}
+.fsButton:hover {
+	background-color:#f9a7eb;
+	color:black;
+	border:1px solid black;
+}
+.frButton:hover {
+	background-color:#f9a7a7;
+	color:black;
+	border:1px solid black;
+}
+.fButton {
+	width: 125px;
+}
+.frButton:active {
+	background-color: red;
+	color: white;
+}
+.fsButton:active {
+	background-color: purple;
+	color: white;
+}
+.fbMargin {
+	text-align: center;
+}
+select {
+	width: 170px;
+}
+.priceTable {
+	width: 100%;
+}
+.priceData {
+	text-align: center;
+}
+.mRadio {
+	text-align: center;
+}
+.mRadio:hover {
+	font-weight: 600;
+}
